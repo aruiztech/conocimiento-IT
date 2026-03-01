@@ -1,6 +1,6 @@
 ---
 title: Operaciones con sets — union(), intersection(), difference() en Python
-description: Explicación de las operaciones básicas con sets en Python: union(), intersection() y difference(), con ejemplos, resultados, analogías mentales y enlaces a otras notas.
+description: Explicación de las operaciones básicas con sets en Python union(), intersection() y difference(), con ejemplos, resultados, analogías mentales y enlaces a otras notas.
 tags: [python, sets, operaciones, analogía]
 date: 2026-03-01
 ---
